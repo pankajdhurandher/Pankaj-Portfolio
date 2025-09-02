@@ -5,7 +5,7 @@ This project showcases my **skills, projects, and professional journey** in a cl
 
 ---
 
-## 🚀 Features
+##  Features
 - **Responsive Design** – Optimized for desktop, tablet, and mobile devices  
 - **Skills Section** – Highlights my technical expertise in various technologies  
 - **Projects Section** – Displays my completed projects with links to source code and live demos  
@@ -16,7 +16,7 @@ This project showcases my **skills, projects, and professional journey** in a cl
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Frontend**: HTML, CSS, JavaScript  
 - **Styling**: Custom CSS with **black, blue, and gold** theme  
 - **Email Integration**: [EmailJS](https://www.emailjs.com/)  
